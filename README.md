@@ -1,0 +1,1 @@
+Example project to try out Powermock and Mockito
